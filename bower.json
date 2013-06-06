@@ -17,6 +17,9 @@
   "exportsOverride": {
     "underscore": {
       "js": "**/*.js"
+    },
+    "jquery": {
+      "js": "**/*.js"
     }
   }
 }
